@@ -5,14 +5,14 @@ if index.between?(1,8) == true then
   else
     false
   end
-  
-if position_taken?(board, index) == false then 
+
+if position_taken?(board, index) == false then
   true
 else
   false
 end
 
-if true && true then 
+if true && true then
   true
 else
   false
