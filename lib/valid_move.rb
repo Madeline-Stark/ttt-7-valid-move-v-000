@@ -4,7 +4,8 @@ if index.between?(1,8) == true && position_taken?(board, index) == false
     true
   else
     false
-  end
+end
+
 end
 
 # re-define your #position_taken? method here, so that you can use it in the #valid_move? method above.
