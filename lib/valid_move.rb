@@ -12,7 +12,7 @@ else
 end
 if true && true
   true
-else 
+else
   false
 end 
 end
